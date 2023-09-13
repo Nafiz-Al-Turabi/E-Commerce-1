@@ -3,7 +3,7 @@ import { AiOutlineShoppingCart, AiOutlineSearch } from "react-icons/ai";
 
 const Navbar = () => {
   return (
-    <nav className="pt-4">
+    <nav className="pt-4 max-w-7xl mx-auto">
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
         <ul className="flex space-x-4 text-white">

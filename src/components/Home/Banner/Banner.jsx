@@ -2,7 +2,7 @@ import { AiFillPlusCircle } from "react-icons/ai";
 
 const Banner = () => {
     return (
-        <div className='mt-32 mb-56'>
+        <div className='mt-32 mb-56 max-w-7xl mx-auto'>
             <div className='flex justify-between items-center'>
                 <div>
                     <h1 className='text-8xl text-slate-800 font-semibold'>Better <br /> Way to Start <br /> The Shopping</h1>
