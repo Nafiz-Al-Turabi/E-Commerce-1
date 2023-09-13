@@ -2,7 +2,7 @@ import React from 'react';
 
 const Collection = () => {
     return (
-        <div className='my-20 relative'>
+        <div className='my-20 relative max-w-7xl mx-auto'>
             <div className='mb-10'>
                 <h1 className='text-4xl'>Our Collections</h1>
                 <hr className='w-[70px] border-2 border-[#fcb027]' />
